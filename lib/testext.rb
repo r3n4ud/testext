@@ -1,4 +1,5 @@
 require 'testext/version'
+require 'testext/testext'
 
 module Testext
   class Testext
