@@ -1,7 +1,9 @@
 require 'testext/version'
 
-class Testext
-  def self.hi
-    puts "Hello world!"
+module Testext
+  class Testext
+    def self.hi
+      puts "Hello world!"
+    end
   end
 end
