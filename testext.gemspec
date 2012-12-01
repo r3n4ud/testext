@@ -5,8 +5,8 @@ require File.expand_path('../lib/testext/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name          = "testext"
   gem.version       = Testext::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{Testext!}
+  gem.description   = %q{Just a gem for c api testing}
   gem.license       = "MIT"
   gem.authors       = ["Renaud AUBIN"]
   gem.email         = "root@renaud.io"
