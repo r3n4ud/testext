@@ -1,5 +1,5 @@
 require 'testext/version'
-require 'ext/testext/testext'
+require 'testext/testext'
 
 module Testext
   class Testext
